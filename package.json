@@ -1,6 +1,6 @@
 {
   "name": "react-lottery-draw",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "react九宫格抽奖组件",
   "main": "index.js",
   "scripts": {},
