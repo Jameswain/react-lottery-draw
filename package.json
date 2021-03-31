@@ -3,8 +3,7 @@
   "version": "0.0.0",
   "description": "react九宫格抽奖组件",
   "main": "index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Jameswain/react-lottery-draw.git"
