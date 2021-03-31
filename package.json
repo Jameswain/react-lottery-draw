@@ -4,7 +4,6 @@
   "description": "react九宫格抽奖组件",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
