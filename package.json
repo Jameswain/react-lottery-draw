@@ -1,0 +1,30 @@
+{
+  "name": "react-lottery-draw",
+  "version": "0.0.0",
+  "description": "react九宫格抽奖组件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jameswain/react-lottery-draw.git"
+  },
+  "keywords": [
+    "react",
+    "lottery",
+    "lucky",
+    "draw",
+    "fruit",
+    "抽奖",
+    "九宫格",
+    "抽奖组件",
+    "走格子抽奖"
+  ],
+  "author": "jameswain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jameswain/react-lottery-draw/issues"
+  },
+  "homepage": "https://github.com/Jameswain/react-lottery-draw#readme"
+}
